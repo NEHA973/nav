@@ -1,0 +1,16 @@
+.header{
+    background-color: black;
+    height:60px;
+    width: 1000px;
+
+}
+.a{
+    background-color: black;
+    border: black;
+    height: 50px;
+    width: 100px;
+   text-align: center;
+   font-size:large;
+   color: white;
+   font-weight: 700;
+}
